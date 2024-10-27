@@ -19,6 +19,9 @@ From this project, I’ve developed skills in hardware programming, LED control,
 ## How I Made the Project Maintainable, Readable, and Adaptable
 I kept the code maintainable by organizing it to separate the different Morse code patterns and toggle logic, which improved readability. Adding clear comments and using modular functions also made the project adaptable for future enhancements.
 
+# 
+#
+
 # Thermostat Project
 ## Project Summary and Problem Solved
 In my thermostat project, I created a system to monitor button inputs, check temperature, and control an LED heater while sending data to a server via UART communication. This project tackled the need for a simple automated system capable of temperature control and real-time reporting—something useful for embedded systems or environmental controls.
