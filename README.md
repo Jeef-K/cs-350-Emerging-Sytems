@@ -19,8 +19,8 @@ From this project, I’ve developed skills in hardware programming, LED control,
 ## How I Made the Project Maintainable, Readable, and Adaptable
 I kept the code maintainable by organizing it to separate the different Morse code patterns and toggle logic, which improved readability. Adding clear comments and using modular functions also made the project adaptable for future enhancements.
 
-# 
-#
+\n
+\n
 
 # Thermostat Project
 ## Project Summary and Problem Solved
